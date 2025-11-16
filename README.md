@@ -91,6 +91,15 @@ Here is a complete demonstration of the Graph Visualization Project:
 
 👉 **[Click here to watch the demo video](https://github.com/AgarwalMohini/GraphVisualizationProject/blob/main/Demo%20video.mp4)**  
 
+## ✨ Features
+- Visualizes BFS, DFS, Dijkstra, Prim’s, Bellman-Ford, Floyd-Warshall  
+- Adjustable animation speed  
+- Clean and interactive UI  
+- Graph creation with nodes and edges  
+- Real-time animations  
+- Error handling and alerts  
+- Detailed step-by-step path calculation
+
 
 ## 🔧 Future Improvements
 
