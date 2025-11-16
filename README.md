@@ -85,9 +85,12 @@ python main.py
 
 This will open the Graph Visualizer interface.
 
-📸 Screenshots (optional)
+## 🎥 Demo Video
 
-You can upload screenshots of the visualizer later.
+Here is a complete demonstration of the Graph Visualization Project:
+
+👉 **[Click here to watch the demo video](PASTE_YOUR_VIDEO_LINK_HERE)**  
+
 
 🔧 Future Improvements
 
