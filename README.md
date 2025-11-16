@@ -1,9 +1,9 @@
-📌 Graph Visualization Project
+## 📌 Graph Visualization Project
 
 This project is a Graph Algorithm Visualizer built using Python, Tkinter, and Matplotlib.
 It shows step-by-step visualizations of popular graph algorithms, helping users understand how each algorithm works internally.
 
-🚀 Features
+## 🚀 Features
 
 Interactive GUI using Tkinter
 
@@ -17,7 +17,7 @@ Beginner-friendly and modular code structure
 
 🔥 Note: Animation speed control is not yet implemented (feature planned for future update).
 
-🧠 Algorithms Implemented
+## 🧠 Algorithms Implemented
 ✔ Traversal & Pathfinding Algorithms
 
 BFS (Breadth-First Search)
@@ -40,7 +40,7 @@ Prim’s Algorithm
 
 Sample Graph Generator
 
-🗂 Project Structure
+## 🗂 Project Structure
 GraphVisualizationProject/
 │── main.py
 │── Core/
@@ -60,7 +60,7 @@ Matplotlib → Drawing & Animations
 
 NetworkX (if used)
 
-📥 Installation & Setup
+## 📥 Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/YOUR_USERNAME/GraphVisualizationProject.git
 
@@ -89,10 +89,10 @@ This will open the Graph Visualizer interface.
 
 Here is a complete demonstration of the Graph Visualization Project:
 
-👉 **[Click here to watch the demo video](PASTE_YOUR_VIDEO_LINK_HERE)**  
+👉 **[Click here to watch the demo video](https://github.com/AgarwalMohini/GraphVisualizationProject/blob/main/Demo%20video.mp4)**  
 
 
-🔧 Future Improvements
+## 🔧 Future Improvements
 
 Add animation speed slider
 
@@ -104,7 +104,7 @@ Add edge weight editing through UI
 
 Add dark/light theme
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Mohini Agarwal
 Python Developer | B.Tech CS
